@@ -1,0 +1,9 @@
+venva/
+aivenv/
+
+__pycache__/
+*.py[cod]
+*.deb
+
+.env
+*.log
