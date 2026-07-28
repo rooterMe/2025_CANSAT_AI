@@ -1,7 +1,11 @@
 # 2025_CANSAT_AI
-AI model for 2025 CANSAT Competition Korea
 
-| 2025년 캔위성 경연대회 AI 모델 코드 일부입니다.
+> AI model for 2025 CANSAT Competition Korea
+> 
+> If you want to see about this project, visit [this link](https://github.com/rooterMe/2025_CANSAT_FSW)
+
+This repository contains the AI flight control model used for the 2025 CANSAT Competition Korea.
+The flight dynamics are simulated in JSBSim, and a PPO (Proximal Policy Optimization) reinforcement learning model is trained to control the CanSat's left and right elevators, guiding its descent trajectory toward the target landing point.
 
 <img width="1280" height="720" alt="슬라이드17" src="https://github.com/user-attachments/assets/bb920fe1-5763-42f0-b927-0cb6d385792d" />
 <img width="1280" height="720" alt="슬라이드18" src="https://github.com/user-attachments/assets/4b6ac18d-df85-4267-8c67-f887f6e7af92" />
